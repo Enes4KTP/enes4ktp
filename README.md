@@ -5,7 +5,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/enesaktepe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enesaktepe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/enesaktepe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enesaktepe" height="25" width="35" /></a>
 <a href="https://instagram.com/enes4ktp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enes4ktp" height="30" width="40" /></a>
 <a href="https://discord.gg/Asternorm#3744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Asternorm#3744" height="30" width="40" /></a>
 </p>
