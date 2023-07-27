@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Enes Aktepe</h2>
-<h4 align="center">I started my coding adventure in my high school years. I am 3rd year computer engineering student at Gazi University. I am interested in the software world and I am developing projects in this field.</h4>
+<h4 align="center">I started my coding adventure in my high school years. I am 4rd year computer engineering student at Gazi University. I am interested in the software world and I am developing projects in this field.</h4>
 <br>
 <br>
 
