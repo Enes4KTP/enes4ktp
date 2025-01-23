@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Hello+World!+🌍;I+am+Enes+Aktepe;Full+Stack+Web+Developer;Passionate+about+Building+Solutions" alt="Typing SVG" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Hello+World!+🌍;I+am+Enes+Aktepe;Full+Stack+Web+Developer" alt="Typing SVG" /> </div>
 
 🌟 About Me 
 
